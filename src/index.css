@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&display=swap');
+
+:root {
+    
+    --bg-color: #eef6fb;
+    --bg-color--card: #222831;
+    --main-border-radius: 10px;
+    --secondary-border-radius: 15px;
+}
+
+body {
+    
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--bg-color);
+    color: #101010;
+    margin: 0px!important;
+    
+}

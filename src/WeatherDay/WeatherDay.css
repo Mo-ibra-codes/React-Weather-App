@@ -1,0 +1,28 @@
+.day {
+    margin-bottom: 0;
+}
+.day0::after {
+    content: "Sun";
+}
+.day1::after {
+    content: "Today";
+    font-size: 150%;
+}
+.day2::after {
+    content: "Tue";
+}
+.day3::after {
+    content: "Wed";
+}
+.day4::after {
+    content: "Thu";
+}
+.day5::after {
+    content: "Fri";
+}
+.day6::after {
+    content: "Sat";
+}
+
+
+
